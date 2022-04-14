@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Veerupaksha
+- 👀 I’m interested in web development,python,java,java script
+- 🌱 I’m currently learning web development
+- 📫 How to reach me linkedin.com/in/veerupaksha-tuppad-22311b157
